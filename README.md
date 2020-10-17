@@ -4,3 +4,4 @@
 
 Data visualizations repository
 
+Better seen at https://pynomaly.github.io/viz-viz
