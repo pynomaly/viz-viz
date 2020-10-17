@@ -31,6 +31,12 @@
 <script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
 </script>
 
+<iframe title="Qué opinión tienes sobre las siguientes afirmaciones" aria-label="stacked bars" id="datawrapper-chart-QiyF0" src="https://datawrapper.dwcdn.net/QiyF0/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="439"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
+
+<iframe title="Las prestaciones del Ingreso Mínimo Vital" aria-label="chart" id="datawrapper-chart-O5LNv" src="https://datawrapper.dwcdn.net/O5LNv/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="502"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
+
 # Gráfico de líneas y áreas
 
 <iframe title="Evoluci&oacute;n de las principales fuentes de emisiones de CO2" aria-label="Interactive area chart" id="datawrapper-chart-nHerH" src="//datawrapper.dwcdn.net/nHerH/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="550"></iframe>
@@ -53,4 +59,8 @@
 <iframe title="Subvenciones recibidas por Indra" aria-label="Table" id="datawrapper-chart-G0jAK" src="//datawrapper.dwcdn.net/G0jAK/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="997"></iframe>
 <script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
 </script>
+
+<iframe title="Recursos destinados a I+D en los países de la OCDE en 2007 y 2017" aria-label="Arrow plot" id="datawrapper-chart-koZRB" src="https://datawrapper.dwcdn.net/koZRB/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="596"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
+
 
