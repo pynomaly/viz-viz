@@ -3,7 +3,8 @@ site_author: pynomaly
 site_url: https://pynomaly.github.io/viz-viz
 nav:
   - Overview: index.md
-  - Contributing: contributing.md
+  - Flourish: flourish.md
+  - Datawrapper: datawrapper.md
 
 plugins:
   - search
@@ -40,17 +41,17 @@ markdown_extensions:
 
 theme:
   name: material
-  custom_dir: 'docs/theme'
-  # logo: 'images/logo.bmp'
+  logo: images/logo.svg
   features:
     - navigation.instant
+  language: es
   palette:
-    primary: 'blue grey'
-    accent: 'light blue'
+    primary: 'teal'
+    accent: 'amber'
 
 extra_css:
   - 'stylesheets/extra.css'
-  - 'stylesheets/links.css'
+#  - 'stylesheets/links.css'
 
 repo_name: pynomaly/viz-viz
 repo_url: https://github.com/pynomaly/viz-viz

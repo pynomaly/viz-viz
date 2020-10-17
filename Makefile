@@ -48,7 +48,7 @@ clean:
 	@echo ""
 
 .PHONY: docs
-docs: test-examples
+docs: 
 	@echo "-------------------------"
 	@echo "- Serving documentation -"
 	@echo "-------------------------"
@@ -58,7 +58,7 @@ docs: test-examples
 	@echo ""
 
 .PHONY: build-docs
-build-docs: test-examples
+build-docs:
 	@echo "--------------------------"
 	@echo "- Building documentation -"
 	@echo "--------------------------"
