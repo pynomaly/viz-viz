@@ -11,7 +11,7 @@ nav:
   - Rough viz: rough-viz.md
 
 plugins:
-  - search
+  #- search
   - autolinks
   - git-revision-date-localized:
       type: timeago
