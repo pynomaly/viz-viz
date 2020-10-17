@@ -24,8 +24,9 @@ markdown_extensions:
       base_path: docs
   - meta
   - toc:
-      permalink: true
-      baselevel: 2
+      #permalink: true
+      #baselevel: 2
+      toc_depth: 0
   - pymdownx.arithmatex
   - pymdownx.betterem:
       smart_enable: all
