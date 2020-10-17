@@ -11,5 +11,17 @@
      <loc>https://pynomaly.github.io/viz-viz/datawrapper/</loc>
      <lastmod>2020-10-17</lastmod>
      <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://pynomaly.github.io/viz-viz/amcharts/</loc>
+     <lastmod>2020-10-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://pynomaly.github.io/viz-viz/echarts/</loc>
+     <lastmod>2020-10-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://pynomaly.github.io/viz-viz/rough-viz/</loc>
+     <lastmod>2020-10-17</lastmod>
+     <changefreq>daily</changefreq>
     </url>
 </urlset>
