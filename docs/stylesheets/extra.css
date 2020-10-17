@@ -2,6 +2,10 @@
   text-decoration:underline;
 }
 
+.md-content {
+  max-width: 100%;
+}
+
 .md-typeset a:hover {
   color: #abb9c1;
   text-decoration:underline;

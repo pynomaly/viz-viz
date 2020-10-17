@@ -2,7 +2,7 @@ site_name: viz-viz
 site_author: pynomaly
 site_url: https://pynomaly.github.io/viz-viz
 nav:
-  - Overview: index.md
+  - Introducción: index.md
   - Flourish: flourish.md
   - Datawrapper: datawrapper.md
   - Amcharts: amcharts.md
