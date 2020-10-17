@@ -1,8 +1,6 @@
 # viz-viz
 
-[![Actions Status](https://github.com/lyz-code/viz-viz/workflows/Tests/badge.svg)](https://github.com/lyz-code/viz-viz/actions)
-[![Actions Status](https://github.com/lyz-code/viz-viz/workflows/Build/badge.svg)](https://github.com/lyz-code/viz-viz/actions)
-[![Coverage Status](https://coveralls.io/repos/github/lyz-code/viz-viz/badge.svg?branch=master)](https://coveralls.io/github/lyz-code/viz-viz?branch=master)
+[![Actions Status](https://github.com/pynomaly/viz-viz/workflows/Build/badge.svg)](https://github.com/pynomaly/viz-viz/actions)
 
 Data visualizations repository
 
