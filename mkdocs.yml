@@ -5,6 +5,9 @@ nav:
   - Overview: index.md
   - Flourish: flourish.md
   - Datawrapper: datawrapper.md
+  - Amcharts: amcharts.md
+  - Echarts: echarts.md
+  - Rough viz: rough-viz.md
 
 plugins:
   - search
