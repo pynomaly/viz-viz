@@ -62,6 +62,14 @@
 </script>
 <br>
 
+<iframe title="Personas en riesgo de exclusi&oacute;n social en Espa&ntilde;a" aria-label="Interactive line chart" id="datawrapper-chart-xkIjy" src="//datawrapper.dwcdn.net/xkIjy/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="500"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
+</script>
+<br>
+
+<iframe title="Evoluci&oacute;n del n&uacute;mero de camas en hospitales de Extremadura" aria-label="Column Chart" id="datawrapper-chart-JFFkc" src="//datawrapper.dwcdn.net/JFFkc/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="500"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
+</script>
+<br>
+
 # Gráficos de puntos y dispersión
 
 <iframe title="Preferencias electorales seg&uacute;n categor&iacute;a socioecon&oacute;mica" aria-label="Dot Plot" id="datawrapper-chart-rmWzk" src="//datawrapper.dwcdn.net/rmWzk/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe>
@@ -82,3 +90,5 @@
 <iframe title="Tabla escenarios recuperación" aria-label="chart" id="datawrapper-chart-xTAU6" src="https://datawrapper.dwcdn.net/xTAU6/7/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="483"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 <br>
+<iframe title="La deuda y los recursos destinados a su pago en Am&eacute;rica Latina y Caribe" aria-label="Table" id="datawrapper-chart-TWsi4" src="//datawrapper.dwcdn.net/TWsi4/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="361"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
+</script>
