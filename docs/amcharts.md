@@ -13,3 +13,6 @@
 # Barras apiladas divergentes
 
 <iframe src="https://pynomaly.github.io/data-visualizations/viz/divergent-stacked-bars" name="Stacked-bars" scrolling="No" height="600px" width="100%" style="border: none;"></iframe>
+
+# Representación de movimientos en mapa
+<iframe src="https://pynomaly.github.io/data-visualizations/viz/animations-along-lines" name="Stacked-bars" scrolling="No" height="600px" width="100%" style="border: none;"></iframe>
