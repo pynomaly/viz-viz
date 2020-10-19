@@ -63,4 +63,7 @@
 <iframe title="Recursos destinados a I+D en los países de la OCDE en 2007 y 2017" aria-label="Arrow plot" id="datawrapper-chart-koZRB" src="https://datawrapper.dwcdn.net/koZRB/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="596"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
+<iframe title="Tabla escenarios recuperación" aria-label="chart" id="datawrapper-chart-xTAU6" src="https://datawrapper.dwcdn.net/xTAU6/7/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="483"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
+
 

@@ -3,8 +3,8 @@ site_author: pynomaly
 site_url: https://pynomaly.github.io/viz-viz
 nav:
   - Introducción: index.md
-  - Flourish: flourish.md
   - Datawrapper: datawrapper.md
+  - Flourish: flourish.md
   - Amcharts: amcharts.md
   - Echarts: echarts.md
   - Storymaps: storymap.md
