@@ -39,6 +39,8 @@
 
 <div class="flourish-embed flourish-globe" data-src="visualisation/3771036" data-url="https://flo.uri.sh/visualisation/3771036/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+<div class="flourish-embed flourish-map" data-src="visualisation/3248381" data-url="https://flo.uri.sh/visualisation/3248381/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 # Stories
 
 <div class="flourish-embed" data-src="story/542647" data-url="https://flo.uri.sh/story/542647/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
