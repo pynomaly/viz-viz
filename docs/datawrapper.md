@@ -12,6 +12,7 @@
 <script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
 </script>
 <br>
+
 # Barras y columnas
 
 <iframe title="Necesidad de un referéndum entre monarquía y repúblicasegún edad" aria-label="Split bars" id="datawrapper-chart-vh7o1" src="https://datawrapper.dwcdn.net/vh7o1/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="439"></iframe>
@@ -44,6 +45,9 @@
 
 <iframe title="Las prestaciones del Ingreso Mínimo Vital" aria-label="chart" id="datawrapper-chart-O5LNv" src="https://datawrapper.dwcdn.net/O5LNv/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="502"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
+<br>
+
+<iframe title="Porcentaje de trabajadores en funci&oacute;n de su ganancia con respecto al SMI" aria-label="Split Bars" id="datawrapper-chart-1h71e" src="//datawrapper.dwcdn.net/1h71e/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="424"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
 <br>
 
 # Gráfico de líneas y áreas
