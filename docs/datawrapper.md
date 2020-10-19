@@ -50,6 +50,9 @@
 <iframe title="Porcentaje de trabajadores en funci&oacute;n de su ganancia con respecto al SMI" aria-label="Split Bars" id="datawrapper-chart-1h71e" src="//datawrapper.dwcdn.net/1h71e/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="424"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
 <br>
 
+<iframe title="Disputa de voto por edad" aria-label="Split Bars" id="datawrapper-chart-oqxI3" src="//datawrapper.dwcdn.net/oqxI3/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="794"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
+<br>
+
 # Gráfico de líneas y áreas
 
 <iframe title="Evoluci&oacute;n de las principales fuentes de emisiones de CO2" aria-label="Interactive area chart" id="datawrapper-chart-nHerH" src="//datawrapper.dwcdn.net/nHerH/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="550"></iframe>
