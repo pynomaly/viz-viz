@@ -6,6 +6,9 @@
 <iframe title="Evolución del precio de la vivienda en los distritos de Barcelona" aria-label="Mapa" id="datawrapper-chart-ZBC7Q" src="https://datawrapper.dwcdn.net/ZBC7Q/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="780"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
+<iframe title="Incidencia COVID en Andalucía por municipio" aria-label="Mapa" id="datawrapper-chart-48FbI" src="https://datawrapper.dwcdn.net/48FbI/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="600"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
+
 <iframe title="Gasto total en I+D por comunidad autónoma" aria-label="Mapa" id="datawrapper-chart-9REHU" src="https://datawrapper.dwcdn.net/9REHU/12/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="483"></iframe>
 <script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();</script>
 <br>
@@ -100,4 +103,7 @@
 </script>
 <br>
 <iframe title="La deuda y los recursos destinados a su pago en Am&eacute;rica Latina y Caribe" aria-label="Table" id="datawrapper-chart-TWsi4" src="//datawrapper.dwcdn.net/TWsi4/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="361"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
+</script>
+<br>
+<iframe title="Presupuestos Generales del Estado Consolidados 2021" aria-label="chart" id="datawrapper-chart-XnCkM" src="https://datawrapper.dwcdn.net/XnCkM/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="935"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
