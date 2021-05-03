@@ -43,10 +43,6 @@
 <br>
 <div class="flourish-embed flourish-map" data-src="visualisation/6012344"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 <br>
-<div style="width:100%!;margin-top:4px!important;text-align:right!important;"><a class="flourish-credit" href="https://public.flourish.studio/visualisation/367978/?utm_source=embed&amp;utm_campaign=visualisation/367978" target="_top" style="text-decoration:none!important"><img alt="Made with Flourish" src="https://public.flourish.studio/resources/made_with_flourish.svg" style="width:105px!important;height:16px!important;border:none!important;margin:0!important;" /> </a></div>
-<br>
-<div class="flourish-embed flourish-globe" data-src="visualisation/3771036" data-url="https://flo.uri.sh/visualisation/3771036/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-<br>
 <div class="flourish-embed flourish-map" data-src="visualisation/3248381" data-url="https://flo.uri.sh/visualisation/3248381/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 # Stories
